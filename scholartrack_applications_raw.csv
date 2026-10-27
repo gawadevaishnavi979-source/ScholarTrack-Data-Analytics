@@ -1,0 +1,506 @@
+application_id,application_date,state,course,category,annual_family_income_inr,scholarship_amount_inr,document_status,application_status,rejection_reason,review_date
+ST1174,2026-06-26,Maharashtra,Pharmacy,General,520241.0,20000,Complete,Approved,Not Applicable,2026-08-03
+ST1275,2026-04-15,Telangana,Pharmacy,General,548632.0,30000,Complete,Rejected,Incomplete Documents,2026-05-26
+ST1491,2026-03-26,Telangana,Science,General,320822.0,15000,Complete,Under Review,Not Applicable,
+ST1073,2026-08-17,Tamil Nadu,Engineering,General,352558.0,40000,Incomplete,Under Review,Not Applicable,
+ST1306,2026-02-09,Telangana,Engineering,OBC,646009.0,15000,Incomplete,Approved,Not Applicable,2026-03-01
+ST1077,2026-06-09,Rajasthan,Engineering,ST,591309.0,25000,Complete,Rejected,Incomplete Documents,2026-07-24
+ST1477,2026-04-17,Gujarat,Science,SC,218191.0,40000,Complete,Approved,Not Applicable,2026-04-26
+ST1141,2026-06-28,Madhya Pradesh,Engineering,SC,342639.0,15000,Incomplete,Under Review,Not Applicable,
+ST1471,2026-03-18,Maharashtra,Arts,EWS,392710.0,40000,Complete,Pending,Not Applicable,
+ST1500,2026-04-04,Madhya Pradesh,Arts,OBC,363768.0,25000,Complete,Approved,Not Applicable,2026-04-26
+ST1219,2026-07-16,Rajasthan,Arts,OBC,508828.0,30000,Complete,Approved,Not Applicable,2026-08-11
+ST1010,2026-07-19,Uttar Pradesh,Pharmacy,ST,458965.0,15000,Incomplete,Pending,Not Applicable,
+ST1481,2026-01-24,Maharashtra,Science,SC,444989.0,20000,Incomplete,Under Review,Not Applicable,
+ST1079,2026-03-11,Maharashtra,Engineering,General,109445.0,25000,Complete,Pending,Not Applicable,
+ST1323,2026-04-29,Uttar Pradesh,Engineering,EWS,305969.0,40000,Pending Verification,Approved,Not Applicable,2026-06-06
+ST1313,2026-03-15,Uttar Pradesh,Engineering,EWS,140390.0,10000,Complete,Rejected,Incomplete Documents,2026-04-12
+ST1125,2026-05-09,Telangana,Management,ST,498779.0,15000,Complete,Approved,Not Applicable,2026-05-17
+ST1385,2026-08-23,Maharashtra,Pharmacy,EWS,641653.0,15000,Complete,Pending,Not Applicable,
+ST1196,2026-07-06,Tamil Nadu,Arts,General,576563.0,40000,Complete,Pending,Not Applicable,
+ST1448,2026-05-23,Gujarat,Science,General,645010.0,10000,Complete,Approved,Not Applicable,2026-06-18
+ST1272,2026-06-06,Karnataka,Commerce,General,131630.0,40000,Complete,Under Review,Not Applicable,
+ST1279,2026-08-04,Uttar Pradesh,Pharmacy,ST,506139.0,30000,Complete,Pending,Not Applicable,
+ST1031,2026-08-08,Rajasthan,Science,OBC,256674.0,10000,Incomplete,Pending,Not Applicable,
+ST1362,2026-07-06,Madhya Pradesh,Science,ST,476071.0,40000,Complete,Rejected,Incomplete Documents,2026-07-10
+ST1421,2026-04-04,Maharashtra,Commerce,OBC,414886.0,30000,Pending Verification,Approved,Not Applicable,2026-05-19
+ST1445,2026-07-13,Karnataka,Commerce,ST,631262.0,25000,Complete,Approved,Not Applicable,2026-08-22
+ST1080,2026-08-24,Gujarat,Management,OBC,112622.0,30000,Incomplete,Pending,Not Applicable,
+ST1319,2026-06-08,Karnataka,Engineering,SC,315054.0,20000,Pending Verification,Under Review,Not Applicable,
+ST1211,2026-03-12,Maharashtra,Management,General,374382.0,40000,Complete,Rejected,Incomplete Documents,2026-04-13
+ST1497,2026-04-05,Telangana,Arts,OBC,313195.0,40000,Complete,Approved,Not Applicable,2026-05-09
+ST1173,2026-02-09,Uttar Pradesh,Commerce,SC,378696.0,10000,Complete,Pending,Not Applicable,
+ST1454,2026-07-21,Telangana,Pharmacy,General,119113.0,10000,Incomplete,Under Review,Not Applicable,
+ST1375,2026-02-15,Tamil Nadu,Commerce,OBC,160734.0,10000,Complete,Under Review,Not Applicable,
+ST1359,2026-02-17,Uttar Pradesh,Commerce,SC,251155.0,25000,Complete,Under Review,Not Applicable,
+ST1495,2026-03-10,Uttar Pradesh,Management,OBC,495764.0,40000,Incomplete,Pending,Not Applicable,
+ST1154,2026-08-23,Maharashtra,Science,General,211830.0,40000,Pending Verification,Pending,Not Applicable,
+ST1003,2026-03-30,Madhya Pradesh,Commerce,OBC,132517.0,25000,Complete,Rejected,Duplicate Application,2026-04-18
+ST1336,2026-08-07,Gujarat,Science,OBC,434461.0,15000,Complete,Approved,Not Applicable,2026-08-19
+ST1209,2026-05-22,Madhya Pradesh,Management,OBC,458169.0,30000,Complete,Pending,Not Applicable,
+ST1074,2026-05-22,Madhya Pradesh,Pharmacy,EWS,325842.0,10000,Complete,Pending,Not Applicable,
+ST1496,2026-01-02,Maharashtra,Management,General,319493.0,25000,Incomplete,Under Review,Not Applicable,
+ST1452,2026-08-22,Gujarat,Engineering,OBC,214920.0,20000,Complete,Approved,Not Applicable,2026-10-03
+ST1205,2026-03-10,Rajasthan,Arts,OBC,84279.0,40000,Complete,Rejected,Income Criteria Not Met,2026-03-21
+ST1069,2026-08-10,Tamil Nadu,Management,EWS,514644.0,20000,Complete,Rejected,Eligibility Mismatch,2026-09-15
+ST1091,2026-03-13,Karnataka,Engineering,SC,279995.0,10000,Incomplete,Approved,Not Applicable,2026-04-02
+ST1300,2026-06-12,Gujarat,Commerce,EWS,400149.0,40000,Complete,Pending,Not Applicable,
+ST1034,2026-02-06,Karnataka,Management,General,375749.0,40000,Complete,Rejected,Duplicate Application,2026-03-19
+ST1071,2026-08-13,Karnataka,Science,EWS,613600.0,30000,Incomplete,Approved,Not Applicable,2026-08-20
+ST1470,2026-05-08,Uttar Pradesh,Engineering,OBC,135149.0,20000,Complete,Approved,Not Applicable,2026-06-09
+ST1001,2026-01-22,Uttar Pradesh,Engineering,ST,194837.0,20000,Pending Verification,Approved,Not Applicable,2026-02-27
+ST1012,2026-01-28,Maharashtra,Pharmacy,SC,441790.0,25000,Complete,Approved,Not Applicable,2026-03-08
+ST1282,2026-07-14,Karnataka,Science,ST,279315.0,25000,Complete,Rejected,Income Criteria Not Met,2026-08-06
+ST1023,2026-04-14,Tamil Nadu,Engineering,ST,317010.0,25000,Complete,Approved,Not Applicable,2026-04-20
+ST1102,2026-06-06,Madhya Pradesh,Arts,General,556211.0,40000,Complete,Approved,Not Applicable,2026-06-14
+ST1269,2026-07-16,Telangana,Management,EWS,103167.0,25000,Complete,Approved,Not Applicable,2026-07-27
+ST1485,2026-04-19,Tamil Nadu,Management,General,546408.0,30000,Pending Verification,Rejected,Duplicate Application,2026-05-19
+ST1442,2026-02-06,Madhya Pradesh,Engineering,EWS,143937.0,15000,Incomplete,Pending,Not Applicable,
+ST1291,2026-03-30,Madhya Pradesh,Science,ST,93491.0,20000,Pending Verification,Rejected,Duplicate Application,2026-04-03
+ST1085,2026-08-01,Maharashtra,Pharmacy,General,294535.0,20000,Complete,Pending,Not Applicable,
+ST1246,2026-08-23,Telangana,Pharmacy,EWS,400721.0,10000,Complete,Pending,Not Applicable,
+ST1064,2026-06-24,Karnataka,Management,EWS,176555.0,30000,Complete,Under Review,Not Applicable,
+ST1056,2026-07-22,Uttar Pradesh,Science,ST,437857.0,15000,Incomplete,Under Review,Not Applicable,
+ST1230,2026-04-25,Karnataka,Commerce,SC,344422.0,20000,Incomplete,Pending,Not Applicable,
+ST1019,2026-03-24,Gujarat,Management,SC,478833.0,10000,Complete,Under Review,Not Applicable,
+ST1411,2026-01-17,Tamil Nadu,Commerce,General,307908.0,10000,Pending Verification,Pending,Not Applicable,
+ST1210,2026-06-20,Karnataka,Commerce,SC,394745.0,30000,Complete,Pending,Not Applicable,
+ST1395,2026-07-18,Madhya Pradesh,Science,OBC,88051.0,25000,Pending Verification,Pending,Not Applicable,
+ST1083,2026-07-24,Gujarat,Engineering,ST,377855.0,10000,Complete,Rejected,Incomplete Documents,2026-07-28
+ST1040,2026-05-02,Uttar Pradesh,Pharmacy,General,487782.0,15000,Incomplete,Approved,Not Applicable,2026-05-22
+ST1456,2026-08-10,Maharashtra,Science,General,458677.0,30000,Complete,Under Review,Not Applicable,
+ST1047,2026-04-10,Telangana,Management,OBC,338721.0,25000,Complete,Approved,Not Applicable,2026-04-17
+ST1413,2026-06-22,Maharashtra,Pharmacy,EWS,515479.0,30000,Pending Verification,Pending,Not Applicable,
+ST1315,2026-07-16,Maharashtra,Management,OBC,255946.0,20000,Complete,Pending,Not Applicable,
+ST1355,2026-08-03,Maharashtra,Engineering,EWS,411585.0,15000,Complete,Pending,Not Applicable,
+ST1078,2026-03-01,Uttar Pradesh,Pharmacy,EWS,192976.0,15000,Pending Verification,Pending,Not Applicable,
+ST1398,2026-08-24,Maharashtra,Science,General,208792.0,15000,Incomplete,Approved,Not Applicable,2026-09-09
+ST1105,2026-01-04,Uttar Pradesh,Management,EWS,443426.0,10000,Complete,Pending,Not Applicable,
+ST1204,2026-05-26,Gujarat,Arts,SC,413998.0,25000,Complete,Pending,Not Applicable,
+ST1381,2026-03-19,Uttar Pradesh,Management,OBC,518711.0,15000,Complete,Approved,Not Applicable,2026-03-21
+ST1489,2026-08-01,Maharashtra,Arts,General,361728.0,30000,Complete,Approved,Not Applicable,2026-08-16
+ST1070,2026-07-10,Karnataka,Management,General,129167.0,15000,Complete,Approved,Not Applicable,2026-07-28
+ST1408,2026-08-21,Uttar Pradesh,Engineering,General,608151.0,25000,Complete,Under Review,Not Applicable,
+ST1256,2026-05-06,Karnataka,Commerce,OBC,185866.0,25000,Pending Verification,Pending,Not Applicable,
+ST1392,2026-02-21,Rajasthan,Commerce,SC,150644.0,10000,Complete,Approved,Not Applicable,2026-03-27
+ST1312,2026-07-24,Maharashtra,Management,EWS,388636.0,25000,Complete,Pending,Not Applicable,
+ST1235,2026-04-08,,Pharmacy,General,547291.0,10000,Complete,Under Review,Not Applicable,
+ST1474,2026-06-01,Maharashtra,Engineering,EWS,598273.0,25000,Incomplete,Rejected,Eligibility Mismatch,2026-06-25
+ST1324,2026-07-28,Rajasthan,Management,OBC,505259.0,15000,Pending Verification,Rejected,Eligibility Mismatch,2026-08-01
+ST1094,2026-08-01,Gujarat,Pharmacy,OBC,259237.0,25000,Incomplete,Approved,Not Applicable,2026-09-04
+ST1138,2026-02-06,Madhya Pradesh,Management,General,80702.0,10000,Complete,Pending,Not Applicable,
+ST1177,2026-07-30,Rajasthan,Management,ST,273413.0,30000,Complete,Under Review,Not Applicable,
+ST1337,2026-02-07,Gujarat,Pharmacy,ST,464608.0,25000,Incomplete,Pending,Not Applicable,
+ST1132,2026-05-15,Madhya Pradesh,Management,EWS,415742.0,40000,Incomplete,Rejected,Income Criteria Not Met,2026-06-13
+ST1375,2026-02-15,Tamil Nadu,Commerce,OBC,160734.0,10000,Complete,Under Review,Not Applicable,
+ST1365,2026-01-05,Maharashtra,Management,ST,487692.0,25000,Pending Verification,Under Review,Not Applicable,
+ST1133,2026-06-11,Uttar Pradesh,Commerce,General,177582.0,15000,Complete,Under Review,Not Applicable,
+ST1332,2026-06-01,Tamil Nadu,Commerce,SC,481606.0,40000,Complete,Rejected,Eligibility Mismatch,2026-06-22
+ST1412,2026-08-13,Gujarat,Engineering,SC,270065.0,15000,Complete,Pending,Not Applicable,
+ST1156,2026-06-12,Tamil Nadu,Management,General,318985.0,30000,Complete,Approved,Not Applicable,2026-06-25
+ST1350,2026-07-19,Madhya Pradesh,Management,EWS,596481.0,40000,Incomplete,Approved,Not Applicable,2026-07-31
+ST1087,2026-08-16,Gujarat,Science,SC,616139.0,30000,Complete,Approved,Not Applicable,2026-09-10
+ST1076,2026-04-04,Tamil Nadu,Arts,ST,557031.0,40000,Complete,Under Review,Not Applicable,
+ST1443,2026-06-09,Madhya Pradesh,Engineering,OBC,279409.0,30000,Complete,Pending,Not Applicable,
+ST1016,2026-04-08,Maharashtra,Engineering,General,519785.0,20000,Complete,Pending,Not Applicable,
+ST1326,2026-02-25,Tamil Nadu,Engineering,ST,291798.0,20000,Complete,Under Review,Not Applicable,
+ST1389,2026-08-23,Madhya Pradesh,Commerce,SC,194104.0,10000,Incomplete,Approved,Not Applicable,2026-09-02
+ST1020,2026-07-03,Uttar Pradesh,Commerce,ST,235177.0,30000,Complete,Rejected,Income Criteria Not Met,2026-08-16
+ST1325,2026-03-13,Uttar Pradesh,Pharmacy,OBC,533452.0,20000,Complete,Approved,Not Applicable,2026-03-24
+ST1335,2026-07-25,Karnataka,Commerce,ST,450779.0,30000,Complete,Rejected,Income Criteria Not Met,2026-08-05
+ST1057,2026-06-04,Rajasthan,Arts,SC,631181.0,30000,Complete,Pending,Not Applicable,
+ST1339,2026-02-23,Uttar Pradesh,Commerce,SC,101169.0,40000,Complete,Rejected,Incomplete Documents,2026-03-30
+ST1409,2026-05-07,,Engineering,EWS,615836.0,15000,Complete,Rejected,Eligibility Mismatch,2026-05-22
+ST1334,2026-02-06,Gujarat,Management,ST,448129.0,30000,Complete,Under Review,Not Applicable,
+ST1182,2026-03-02,Telangana,Engineering,OBC,601792.0,10000,Complete,Pending,Not Applicable,
+ST1228,2026-05-16,Maharashtra,Engineering,OBC,420942.0,20000,Complete,Pending,Not Applicable,
+ST1427,2026-08-04,Tamil Nadu,Engineering,SC,586177.0,15000,Incomplete,Rejected,Income Criteria Not Met,2026-08-20
+ST1181,2026-04-26,Rajasthan,Management,OBC,173705.0,20000,Complete,Pending,Not Applicable,
+ST1026,2026-05-22,Madhya Pradesh,Commerce,ST,117025.0,20000,Complete,Under Review,Not Applicable,
+ST1330,2026-02-20,Maharashtra,Engineering,EWS,129985.0,20000,Complete,Pending,Not Applicable,
+ST1239,2026-01-31,Maharashtra,Pharmacy,EWS,97700.0,40000,Complete,Pending,Not Applicable,
+ST1245,2026-08-27,Uttar Pradesh,Commerce,General,606624.0,10000,Complete,Under Review,Not Applicable,
+ST1251,2026-05-23,Madhya Pradesh,Pharmacy,SC,354605.0,10000,Complete,Approved,Not Applicable,2026-05-30
+ST1418,2026-08-16,Karnataka,Management,OBC,615060.0,20000,Complete,Under Review,Not Applicable,
+ST1118,2026-08-10,Gujarat,Management,General,290317.0,10000,Incomplete,Pending,Not Applicable,
+ST1043,2026-05-24,Tamil Nadu,Engineering,ST,318895.0,10000,Pending Verification,Rejected,Duplicate Application,2026-06-19
+ST1322,2026-07-19,Tamil Nadu,Arts,SC,425096.0,40000,Complete,Pending,Not Applicable,
+ST1347,2026-07-23,Gujarat,Commerce,OBC,468865.0,30000,Complete,Pending,Not Applicable,
+ST1183,2026-05-26,Tamil Nadu,Arts,EWS,643505.0,25000,Incomplete,Approved,Not Applicable,2026-06-20
+ST1156,2026-06-12,Tamil Nadu,Management,General,318985.0,30000,Complete,Approved,Not Applicable,2026-06-25
+ST1281,2026-06-09,Gujarat,Science,SC,438585.0,30000,Complete,Under Review,Not Applicable,
+ST1127,2026-03-29,Maharashtra,Arts,SC,628993.0,25000,Complete,Pending,Not Applicable,
+ST1449,2026-04-06,Madhya Pradesh,Science,ST,419974.0,15000,Incomplete,Pending,Not Applicable,
+ST1032,2026-07-19,Tamil Nadu,Arts,ST,373583.0,40000,Complete,Approved,Not Applicable,2026-07-29
+ST1114,2026-06-05,Maharashtra,Management,General,244290.0,40000,Incomplete,Rejected,Income Criteria Not Met,2026-07-01
+ST1149,2026-06-08,Uttar Pradesh,Arts,General,587311.0,30000,Complete,Rejected,Income Criteria Not Met,2026-07-11
+ST1430,2026-08-04,Gujarat,Pharmacy,OBC,348835.0,40000,Complete,Rejected,Duplicate Application,2026-08-06
+ST1401,2026-04-15,Telangana,Commerce,General,608427.0,10000,Incomplete,Rejected,Income Criteria Not Met,2026-05-20
+ST1058,2026-07-25,Karnataka,Arts,General,159668.0,25000,Complete,Approved,Not Applicable,2026-08-26
+ST1195,2026-06-10,Gujarat,Pharmacy,General,172574.0,40000,Pending Verification,Rejected,Incomplete Documents,2026-06-25
+ST1025,2026-05-22,Rajasthan,Commerce,OBC,429098.0,40000,Complete,Under Review,Not Applicable,
+ST1018,2026-06-17,Tamil Nadu,Science,ST,286233.0,15000,Complete,Approved,Not Applicable,2026-06-29
+ST1298,2026-06-01,Uttar Pradesh,Engineering,ST,462441.0,10000,Complete,Approved,Not Applicable,2026-07-14
+ST1067,2026-06-13,Rajasthan,Commerce,OBC,421768.0,30000,Pending Verification,Rejected,Duplicate Application,2026-07-07
+ST1212,2026-06-14,Gujarat,Arts,OBC,342889.0,30000,Complete,Under Review,Not Applicable,
+ST1404,2026-07-24,Gujarat,Management,OBC,564774.0,20000,Pending Verification,Approved,Not Applicable,2026-07-27
+ST1095,2026-04-03,Maharashtra,Engineering,EWS,559936.0,20000,Complete,Pending,Not Applicable,
+ST1155,2026-07-21,Rajasthan,Science,OBC,508448.0,15000,Incomplete,Approved,Not Applicable,2026-08-03
+ST1441,2026-03-10,Rajasthan,Management,EWS,308590.0,10000,Incomplete,Approved,Not Applicable,2026-04-16
+ST1024,2026-02-13,Karnataka,Pharmacy,General,179855.0,25000,Complete,Approved,Not Applicable,2026-03-08
+ST1226,2026-05-29,Uttar Pradesh,Engineering,EWS,278661.0,15000,Complete,Approved,Not Applicable,2026-06-11
+ST1433,2026-02-13,Karnataka,Engineering,ST,549978.0,15000,Pending Verification,Pending,Not Applicable,
+ST1447,2026-07-02,Tamil Nadu,Engineering,General,564126.0,20000,Incomplete,Pending,Not Applicable,
+ST1006,2026-04-23,Tamil Nadu,Management,ST,288986.0,30000,Complete,Pending,Not Applicable,
+ST1117,2026-04-09,Rajasthan,Science,EWS,231675.0,15000,Incomplete,Pending,Not Applicable,
+ST1046,2026-03-22,Uttar Pradesh,Pharmacy,ST,245218.0,40000,Complete,Approved,Not Applicable,2026-04-16
+ST1017,2026-06-23,Rajasthan,Management,General,363478.0,40000,Complete,Pending,Not Applicable,
+ST1468,2026-07-16,Tamil Nadu,Pharmacy,EWS,363496.0,25000,Complete,Pending,Not Applicable,
+ST1362,2026-07-06,Madhya Pradesh,Science,ST,476071.0,40000,Complete,Rejected,Incomplete Documents,2026-07-10
+ST1004,2026-05-14,Tamil Nadu,Engineering,ST,479298.0,15000,Pending Verification,Under Review,Not Applicable,
+ST1295,2026-02-24,Telangana,Pharmacy,EWS,147564.0,30000,Complete,Under Review,Not Applicable,
+ST1186,2026-07-18,Rajasthan,Commerce,OBC,444238.0,15000,Complete,Under Review,Not Applicable,
+ST1061,2026-07-04,Uttar Pradesh,Commerce,ST,,40000,Complete,Approved,Not Applicable,2026-07-20
+ST1111,2026-04-18,Madhya Pradesh,Arts,General,480729.0,10000,Complete,Approved,Not Applicable,2026-05-14
+ST1321,2026-03-01,Rajasthan,Arts,ST,612862.0,15000,Complete,Approved,Not Applicable,2026-04-05
+ST1266,2026-08-22,Uttar Pradesh,Commerce,OBC,286111.0,20000,Complete,Approved,Not Applicable,2026-09-13
+ST1030,2026-06-11,Uttar Pradesh,Arts,General,430347.0,40000,Complete,Rejected,Eligibility Mismatch,2026-07-15
+ST1263,2026-08-21,Gujarat,Arts,EWS,193941.0,25000,Pending Verification,Pending,Not Applicable,
+ST1478,2026-04-30,Gujarat,Science,ST,645705.0,15000,Complete,Under Review,Not Applicable,
+ST1027,2026-01-20,Karnataka,Science,SC,349889.0,40000,Complete,Approved,Not Applicable,2026-02-10
+ST1008,2026-03-21,Karnataka,Pharmacy,ST,479151.0,20000,Complete,Rejected,Duplicate Application,2026-04-01
+ST1458,2026-03-23,Maharashtra,Commerce,SC,564786.0,10000,Complete,Approved,Not Applicable,2026-04-15
+ST1109,2026-05-05,Telangana,Science,ST,303157.0,40000,Complete,Approved,Not Applicable,2026-05-11
+ST1038,2026-03-16,Rajasthan,Commerce,General,612593.0,20000,Complete,Under Review,Not Applicable,
+ST1158,2026-06-07,Gujarat,Management,OBC,181711.0,10000,Complete,Rejected,Income Criteria Not Met,2026-06-26
+ST1472,2026-03-26,Gujarat,Pharmacy,ST,246333.0,30000,Complete,Approved,Not Applicable,2026-04-04
+ST1119,2026-01-27,Uttar Pradesh,Pharmacy,ST,304259.0,10000,Complete,Rejected,Duplicate Application,2026-02-26
+ST1115,2026-08-21,Maharashtra,Arts,General,369662.0,10000,Complete,Approved,Not Applicable,2026-09-24
+ST1176,2026-02-12,Tamil Nadu,Commerce,General,336420.0,40000,Complete,Pending,Not Applicable,
+ST1193,2026-05-15,Gujarat,Commerce,General,448831.0,40000,Complete,Approved,Not Applicable,2026-06-17
+ST1273,2026-04-08,Uttar Pradesh,Commerce,OBC,519341.0,20000,Complete,Under Review,Not Applicable,
+ST1145,2026-07-24,Uttar Pradesh,Management,EWS,245946.0,40000,Pending Verification,Pending,Not Applicable,
+ST1490,2026-04-01,Telangana,Management,OBC,580162.0,40000,Pending Verification,Under Review,Not Applicable,
+ST1383,2026-04-17,Gujarat,Engineering,EWS,188340.0,30000,Complete,Pending,Not Applicable,
+ST1356,2026-01-06,Rajasthan,Science,OBC,333472.0,40000,Complete,Pending,Not Applicable,
+ST1278,2026-02-24,Telangana,Engineering,SC,361795.0,25000,Complete,Pending,Not Applicable,
+ST1221,2026-02-20,Maharashtra,Commerce,General,172502.0,30000,Incomplete,Pending,Not Applicable,
+ST1450,2026-06-16,Madhya Pradesh,Pharmacy,OBC,220942.0,30000,Complete,Under Review,Not Applicable,
+ST1142,2026-02-15,Gujarat,Engineering,General,603730.0,10000,Complete,Pending,Not Applicable,
+ST1369,2026-08-11,Telangana,Arts,OBC,205160.0,20000,Complete,Rejected,Incomplete Documents,2026-09-24
+ST1068,2026-07-22,Tamil Nadu,Engineering,SC,454982.0,10000,Complete,Pending,Not Applicable,
+ST1361,2026-03-28,Tamil Nadu,Arts,ST,440005.0,25000,Incomplete,Approved,Not Applicable,2026-03-30
+ST1169,2026-02-28,Maharashtra,Arts,OBC,157186.0,40000,Incomplete,Approved,Not Applicable,2026-03-30
+ST1499,2026-04-05,Madhya Pradesh,Management,ST,119965.0,30000,Complete,Approved,Not Applicable,2026-05-01
+ST1379,2026-04-20,Rajasthan,Arts,SC,162609.0,40000,Complete,Rejected,Income Criteria Not Met,2026-04-22
+ST1366,2026-08-21,Rajasthan,Pharmacy,General,118022.0,15000,Complete,Under Review,Not Applicable,
+ST1194,2026-06-17,Karnataka,Pharmacy,General,265181.0,15000,Complete,Approved,Not Applicable,2026-07-06
+ST1250,2026-05-09,Uttar Pradesh,Management,General,610723.0,30000,Pending Verification,Under Review,Not Applicable,
+ST1110,2026-02-12,Maharashtra,Science,EWS,473756.0,15000,Complete,Pending,Not Applicable,
+ST1434,2026-04-30,Maharashtra,Engineering,SC,505136.0,40000,Complete,Pending,Not Applicable,
+ST1146,2026-03-03,Telangana,Management,General,286075.0,25000,Incomplete,Approved,Not Applicable,2026-04-16
+ST1093,2026-05-12,Rajasthan,Pharmacy,ST,398241.0,40000,Pending Verification,Rejected,Income Criteria Not Met,2026-06-06
+ST1153,2026-02-13,Madhya Pradesh,Science,General,248010.0,15000,Incomplete,Pending,Not Applicable,
+ST1223,2026-08-09,Telangana,Management,EWS,577530.0,20000,Complete,Under Review,Not Applicable,
+ST1410,2026-01-28,Rajasthan,Arts,EWS,86981.0,20000,Complete,Rejected,Incomplete Documents,2026-02-10
+ST1084,2026-08-24,Rajasthan,Engineering,General,204907.0,10000,Incomplete,Pending,Not Applicable,
+ST1249,2026-05-16,Uttar Pradesh,Engineering,SC,202469.0,20000,Pending Verification,Pending,Not Applicable,
+ST1166,2026-01-12,Tamil Nadu,Arts,General,136387.0,20000,Incomplete,Under Review,Not Applicable,
+ST1164,2026-05-18,Rajasthan,Science,EWS,367439.0,10000,Complete,Approved,Not Applicable,2026-06-14
+ST1200,2026-01-06,Rajasthan,Commerce,SC,180583.0,40000,Incomplete,Under Review,Not Applicable,
+ST1232,2026-04-12,Uttar Pradesh,Arts,OBC,275975.0,25000,Complete,Pending,Not Applicable,
+ST1075,2026-03-12,Rajasthan,Management,ST,525338.0,15000,Complete,Approved,Not Applicable,2026-03-14
+ST1311,2026-01-09,Karnataka,Commerce,EWS,430112.0,10000,Incomplete,Rejected,Duplicate Application,2026-01-30
+ST1455,2026-07-23,Telangana,Pharmacy,EWS,414121.0,30000,Complete,Rejected,Incomplete Documents,2026-08-21
+ST1254,2026-07-29,Madhya Pradesh,Pharmacy,SC,173133.0,20000,Incomplete,Approved,Not Applicable,2026-08-22
+ST1120,2026-07-12,Rajasthan,Arts,EWS,332938.0,10000,Complete,Pending,Not Applicable,
+ST1285,2026-05-08,Karnataka,Pharmacy,OBC,528920.0,40000,Complete,Rejected,Eligibility Mismatch,2026-05-17
+ST1302,2026-06-27,Tamil Nadu,Engineering,SC,405565.0,40000,Pending Verification,Pending,Not Applicable,
+ST1483,2026-02-03,Gujarat,Management,OBC,123742.0,40000,Complete,Pending,Not Applicable,
+ST1357,2026-04-02,Karnataka,Engineering,SC,181804.0,40000,Pending Verification,Rejected,Eligibility Mismatch,2026-04-07
+ST1403,2026-07-04,Gujarat,Engineering,ST,237276.0,40000,Complete,Approved,Not Applicable,2026-07-28
+ST1229,2026-08-03,Telangana,Engineering,SC,553122.0,40000,Pending Verification,Pending,Not Applicable,
+ST1262,2026-07-29,Madhya Pradesh,Management,General,178125.0,30000,Complete,Approved,Not Applicable,2026-08-24
+ST1238,2026-03-11,Madhya Pradesh,Pharmacy,SC,347997.0,30000,Complete,Approved,Not Applicable,2026-04-24
+ST1438,2026-03-19,Rajasthan,Pharmacy,EWS,244194.0,15000,Incomplete,Pending,Not Applicable,
+ST1476,2026-05-05,Karnataka,Science,EWS,293908.0,20000,Pending Verification,Pending,Not Applicable,
+ST1037,2026-06-29,Uttar Pradesh,Engineering,General,239890.0,30000,Incomplete,Approved,Not Applicable,2026-07-08
+ST1197,2026-03-08,Tamil Nadu,Management,EWS,502684.0,15000,Complete,Pending,Not Applicable,
+ST1140,2026-07-21,Telangana,Commerce,EWS,469457.0,15000,Complete,Approved,Not Applicable,2026-08-18
+ST1368,2026-06-20,Rajasthan,Commerce,ST,370603.0,40000,Complete,Rejected,Incomplete Documents,2026-06-25
+ST1248,2026-05-17,Telangana,Management,OBC,,40000,Complete,Approved,Not Applicable,2026-06-22
+ST1288,2026-06-29,Gujarat,Arts,OBC,285662.0,30000,Complete,Approved,Not Applicable,2026-07-20
+ST1378,2026-05-28,Maharashtra,Commerce,OBC,271408.0,20000,Complete,Rejected,Incomplete Documents,2026-07-02
+ST1060,2026-04-15,Uttar Pradesh,Management,ST,602319.0,15000,Complete,Rejected,Incomplete Documents,2026-05-03
+ST1112,2026-06-21,,Pharmacy,ST,594897.0,20000,Incomplete,Rejected,Duplicate Application,2026-08-05
+ST1090,2026-02-06,Telangana,Science,ST,260713.0,20000,Complete,Pending,Not Applicable,
+ST1267,2026-01-28,Rajasthan,Pharmacy,ST,334261.0,10000,Pending Verification,Pending,Not Applicable,
+ST1007,2026-08-21,Uttar Pradesh,Arts,SC,154055.0,20000,Complete,Approved,Not Applicable,2026-08-26
+ST1457,2026-06-11,Madhya Pradesh,Engineering,General,195371.0,30000,Complete,Under Review,Not Applicable,
+ST1348,2026-03-05,,Engineering,SC,274307.0,10000,Incomplete,Under Review,Not Applicable,
+ST1341,2026-06-04,Madhya Pradesh,Science,ST,354507.0,10000,Pending Verification,Rejected,Incomplete Documents,2026-07-02
+ST1159,2026-08-09,Karnataka,Arts,OBC,347786.0,40000,Incomplete,Under Review,Not Applicable,
+ST1151,2026-01-30,Telangana,Engineering,SC,646059.0,40000,Complete,Pending,Not Applicable,
+ST1178,2026-06-22,Gujarat,Engineering,General,615811.0,15000,Pending Verification,Pending,Not Applicable,
+ST1397,2026-07-17,Gujarat,Arts,EWS,295814.0,10000,Complete,Pending,Not Applicable,
+ST1185,2026-03-23,Tamil Nadu,Science,General,507978.0,30000,Incomplete,Approved,Not Applicable,2026-03-27
+ST1318,2026-01-02,Karnataka,Management,OBC,280669.0,30000,Complete,Under Review,Not Applicable,
+ST1011,2026-03-08,Rajasthan,Engineering,General,219924.0,25000,Incomplete,Approved,Not Applicable,2026-04-13
+ST1384,2026-01-04,Gujarat,Engineering,SC,166243.0,25000,Complete,Under Review,Not Applicable,
+ST1104,2026-06-01,Karnataka,Commerce,EWS,414274.0,15000,Complete,Pending,Not Applicable,
+ST1082,2026-01-28,Tamil Nadu,Science,ST,129034.0,25000,Complete,Approved,Not Applicable,2026-02-04
+ST1039,2026-01-04,Tamil Nadu,Management,General,249025.0,10000,Incomplete,Pending,Not Applicable,
+ST1317,2026-07-05,Uttar Pradesh,Arts,OBC,533283.0,25000,Pending Verification,Rejected,Income Criteria Not Met,2026-08-08
+ST1168,2026-01-14,Karnataka,Engineering,General,354450.0,20000,Pending Verification,Pending,Not Applicable,
+ST1475,2026-05-21,Uttar Pradesh,Science,OBC,369098.0,10000,Complete,Approved,Not Applicable,2026-06-06
+ST1299,2026-02-16,Telangana,Pharmacy,General,250669.0,40000,Incomplete,Rejected,Income Criteria Not Met,2026-04-02
+ST1405,2026-04-13,Telangana,Management,SC,511475.0,40000,Complete,Pending,Not Applicable,
+ST1199,2026-05-31,Madhya Pradesh,Commerce,ST,390351.0,25000,Complete,Under Review,Not Applicable,
+ST1377,2026-06-15,Gujarat,Commerce,General,470675.0,15000,Complete,Approved,Not Applicable,2026-07-05
+ST1147,2026-02-05,Gujarat,Arts,SC,315995.0,25000,Complete,Rejected,Incomplete Documents,2026-02-21
+ST1396,2026-05-26,Telangana,Engineering,ST,216942.0,15000,Complete,Pending,Not Applicable,
+ST1148,2026-07-17,Tamil Nadu,Commerce,OBC,90849.0,10000,Complete,Pending,Not Applicable,
+ST1484,2026-03-26,Gujarat,Arts,General,194090.0,40000,Complete,Approved,Not Applicable,2026-03-28
+ST1290,2026-03-17,Madhya Pradesh,Pharmacy,OBC,570461.0,10000,Complete,Pending,Not Applicable,
+ST1124,2026-06-12,Rajasthan,Management,ST,248926.0,30000,Complete,Rejected,Income Criteria Not Met,2026-06-29
+ST1372,2026-06-16,Maharashtra,Pharmacy,ST,568861.0,20000,Complete,Pending,Not Applicable,
+ST1097,2026-06-28,Uttar Pradesh,Commerce,OBC,484230.0,30000,Complete,Under Review,Not Applicable,
+ST1144,2026-01-22,Uttar Pradesh,Commerce,General,239980.0,30000,Complete,Approved,Not Applicable,2026-02-18
+ST1240,2026-05-22,Uttar Pradesh,Science,OBC,608259.0,20000,Pending Verification,Approved,Not Applicable,2026-06-12
+ST1276,2026-01-26,Telangana,Commerce,OBC,647045.0,25000,Complete,Approved,Not Applicable,2026-01-29
+ST1098,2026-02-06,Gujarat,Science,EWS,123668.0,25000,Incomplete,Pending,Not Applicable,
+ST1353,2026-04-14,Telangana,Commerce,General,209884.0,15000,Incomplete,Under Review,Not Applicable,
+ST1123,2026-03-13,Rajasthan,Management,EWS,186928.0,15000,Complete,Approved,Not Applicable,2026-03-20
+ST1184,2026-07-16,Karnataka,Pharmacy,EWS,468665.0,40000,Complete,Approved,Not Applicable,2026-08-19
+ST1203,2026-01-06,Maharashtra,Commerce,ST,340178.0,30000,Complete,Rejected,Incomplete Documents,2026-02-09
+ST1247,2026-03-22,Karnataka,Commerce,OBC,345482.0,30000,Complete,Under Review,Not Applicable,
+ST1308,2026-02-14,Uttar Pradesh,Arts,EWS,387148.0,15000,Complete,Pending,Not Applicable,
+ST1423,2026-08-26,Uttar Pradesh,Commerce,General,132887.0,30000,Complete,Under Review,Not Applicable,
+ST1354,2026-08-25,Telangana,Arts,General,180890.0,25000,Complete,Pending,Not Applicable,
+ST1303,2026-07-31,Telangana,Science,ST,541667.0,10000,Complete,Pending,Not Applicable,
+ST1399,2026-02-18,Telangana,Engineering,SC,535344.0,20000,Complete,Under Review,Not Applicable,
+ST1287,2026-05-13,Madhya Pradesh,Arts,ST,411502.0,20000,Incomplete,Pending,Not Applicable,
+ST1126,2026-05-23,Madhya Pradesh,Commerce,General,138720.0,15000,Complete,Under Review,Not Applicable,
+ST1305,2026-04-15,Rajasthan,Science,ST,473529.0,20000,Pending Verification,Under Review,Not Applicable,
+ST1224,2026-05-29,Gujarat,Pharmacy,General,402860.0,15000,Complete,Rejected,Duplicate Application,2026-06-09
+ST1422,2026-03-13,Telangana,Pharmacy,OBC,113469.0,25000,Complete,Under Review,Not Applicable,
+ST1220,2026-05-10,Gujarat,Commerce,OBC,436482.0,15000,Incomplete,Approved,Not Applicable,2026-06-14
+ST1130,2026-08-25,Tamil Nadu,Engineering,OBC,567130.0,25000,Complete,Approved,Not Applicable,2026-09-28
+ST1424,2026-01-08,Maharashtra,Pharmacy,EWS,575537.0,25000,Complete,Rejected,Incomplete Documents,2026-01-15
+ST1292,2026-07-28,Uttar Pradesh,Management,SC,531128.0,40000,Complete,Approved,Not Applicable,2026-08-18
+ST1493,2026-07-19,Karnataka,Commerce,OBC,344709.0,25000,Complete,Rejected,Eligibility Mismatch,2026-08-29
+ST1394,2026-02-06,Madhya Pradesh,Commerce,SC,172828.0,40000,Complete,Rejected,Eligibility Mismatch,2026-03-11
+ST1480,2026-03-01,Madhya Pradesh,Commerce,General,493844.0,15000,Complete,Approved,Not Applicable,2026-03-25
+ST1358,2026-03-22,Telangana,Arts,EWS,456192.0,25000,Incomplete,Pending,Not Applicable,
+ST1297,2026-08-27,Karnataka,Arts,OBC,191255.0,25000,Complete,Pending,Not Applicable,
+ST1370,2026-05-23,Telangana,Management,ST,295574.0,15000,Incomplete,Rejected,Incomplete Documents,2026-07-05
+ST1343,2026-02-13,Maharashtra,Science,SC,288895.0,25000,Incomplete,Pending,Not Applicable,
+ST1113,2026-03-10,Maharashtra,Engineering,SC,497476.0,40000,Complete,Rejected,Income Criteria Not Met,2026-04-23
+ST1180,2026-05-09,Karnataka,Arts,EWS,130966.0,20000,Pending Verification,Pending,Not Applicable,
+ST1419,2026-03-30,Maharashtra,Commerce,OBC,389733.0,40000,Complete,Pending,Not Applicable,
+ST1342,2026-03-22,Telangana,Science,SC,415712.0,40000,Complete,Approved,Not Applicable,2026-04-14
+ST1333,2026-03-25,Uttar Pradesh,Pharmacy,OBC,320499.0,20000,Complete,Pending,Not Applicable,
+ST1487,2026-08-17,Uttar Pradesh,Commerce,General,138047.0,30000,Complete,Rejected,Income Criteria Not Met,2026-09-10
+ST1363,2026-02-28,Madhya Pradesh,Engineering,SC,127425.0,25000,Incomplete,Pending,Not Applicable,
+ST1234,2026-01-08,Uttar Pradesh,Engineering,General,145736.0,40000,Complete,Pending,Not Applicable,
+ST1473,2026-08-07,Telangana,Management,EWS,225348.0,10000,Complete,Under Review,Not Applicable,
+ST1165,2026-04-23,Uttar Pradesh,Engineering,OBC,172836.0,20000,Incomplete,Approved,Not Applicable,2026-05-10
+ST1137,2026-07-06,Telangana,Arts,SC,304652.0,15000,Complete,Rejected,Income Criteria Not Met,2026-07-10
+ST1198,2026-02-18,Rajasthan,Pharmacy,OBC,255396.0,25000,Complete,Rejected,Duplicate Application,2026-03-25
+ST1259,2026-03-30,Tamil Nadu,Engineering,OBC,482304.0,40000,Complete,Under Review,Not Applicable,
+ST1233,2026-03-28,Telangana,Science,SC,,15000,Pending Verification,Approved,Not Applicable,2026-04-14
+ST1116,2026-07-06,Madhya Pradesh,Arts,EWS,217889.0,40000,Incomplete,Under Review,Not Applicable,
+ST1121,2026-01-02,Madhya Pradesh,Pharmacy,EWS,428049.0,30000,Complete,Rejected,Incomplete Documents,2026-01-27
+ST1352,2026-05-02,Uttar Pradesh,Commerce,SC,268486.0,30000,Complete,Approved,Not Applicable,2026-06-02
+ST1225,2026-04-03,Rajasthan,Engineering,EWS,422888.0,10000,Complete,Rejected,Income Criteria Not Met,2026-05-11
+ST1406,2026-03-20,Gujarat,Science,General,166527.0,15000,Complete,Approved,Not Applicable,2026-04-11
+ST1437,2026-01-24,Uttar Pradesh,Commerce,SC,403615.0,30000,Complete,Under Review,Not Applicable,
+ST1128,2026-06-02,Telangana,Pharmacy,SC,388288.0,40000,Complete,Approved,Not Applicable,2026-07-13
+ST1286,2026-04-25,Gujarat,Commerce,General,483037.0,15000,Incomplete,Pending,Not Applicable,
+ST1415,2026-06-07,Gujarat,Pharmacy,SC,500335.0,15000,Complete,Approved,Not Applicable,2026-07-20
+ST1108,2026-05-02,Madhya Pradesh,Commerce,SC,364326.0,40000,Complete,Approved,Not Applicable,2026-05-09
+ST1374,2026-06-25,Maharashtra,Commerce,EWS,623196.0,25000,Complete,Under Review,Not Applicable,
+ST1371,2026-07-08,Telangana,Engineering,OBC,134166.0,20000,Pending Verification,Approved,Not Applicable,2026-07-20
+ST1134,2026-05-15,Rajasthan,Management,SC,159611.0,30000,Pending Verification,Rejected,Duplicate Application,2026-05-31
+ST1400,2026-05-08,Uttar Pradesh,Commerce,EWS,176804.0,30000,Incomplete,Rejected,Duplicate Application,2026-05-12
+ST1045,2026-07-23,Gujarat,Pharmacy,OBC,534186.0,10000,Complete,Pending,Not Applicable,
+ST1466,2026-08-10,Karnataka,Commerce,General,109038.0,25000,Pending Verification,Under Review,Not Applicable,
+ST1066,2026-05-22,Karnataka,Science,General,406285.0,15000,Complete,Approved,Not Applicable,2026-05-31
+ST1284,2026-01-27,Karnataka,Commerce,OBC,266996.0,15000,Pending Verification,Pending,Not Applicable,
+ST1086,2026-08-24,Rajasthan,Commerce,General,221525.0,40000,Complete,Rejected,Eligibility Mismatch,2026-09-06
+ST1243,2026-03-15,Uttar Pradesh,Arts,ST,400723.0,20000,Incomplete,Rejected,Duplicate Application,2026-03-24
+ST1187,2026-05-13,Telangana,Engineering,OBC,341209.0,40000,Complete,Pending,Not Applicable,
+ST1387,2026-05-01,Rajasthan,Pharmacy,EWS,173096.0,40000,Complete,Pending,Not Applicable,
+ST1160,2026-06-04,Rajasthan,Engineering,ST,452082.0,20000,Incomplete,Approved,Not Applicable,2026-07-14
+ST1013,2026-01-22,Maharashtra,Commerce,SC,640161.0,25000,Complete,Approved,Not Applicable,2026-02-17
+ST1036,2026-01-02,Maharashtra,Engineering,General,553735.0,40000,Complete,Pending,Not Applicable,
+ST1029,2026-07-18,Rajasthan,Arts,General,459614.0,15000,Complete,Pending,Not Applicable,
+ST1171,2026-08-24,Karnataka,Management,OBC,206746.0,20000,Complete,Pending,Not Applicable,
+ST1143,2026-08-12,Karnataka,Engineering,ST,433485.0,15000,Complete,Pending,Not Applicable,
+ST1417,2026-01-17,Tamil Nadu,Commerce,General,535490.0,25000,Incomplete,Rejected,Income Criteria Not Met,2026-01-23
+ST1425,2026-08-11,Rajasthan,Management,General,100765.0,40000,Complete,Rejected,Eligibility Mismatch,2026-09-08
+ST1222,2026-02-12,Uttar Pradesh,Engineering,EWS,452518.0,40000,Complete,Approved,Not Applicable,2026-03-16
+ST1096,2026-01-19,Karnataka,Pharmacy,OBC,117928.0,20000,Complete,Approved,Not Applicable,2026-02-02
+ST1052,2026-07-12,Rajasthan,Pharmacy,EWS,531812.0,40000,Complete,Approved,Not Applicable,2026-07-31
+ST1241,2026-06-25,Madhya Pradesh,Management,SC,298705.0,15000,Complete,Approved,Not Applicable,2026-07-14
+ST1376,2026-02-14,Rajasthan,Arts,SC,159679.0,30000,Complete,Pending,Not Applicable,
+ST1382,2026-07-09,Telangana,Pharmacy,General,288879.0,40000,Complete,Under Review,Not Applicable,
+ST1179,2026-01-01,Madhya Pradesh,Commerce,SC,304171.0,15000,Complete,Approved,Not Applicable,2026-02-06
+ST1042,2026-02-01,Rajasthan,Arts,EWS,607141.0,40000,Complete,Rejected,Income Criteria Not Met,2026-02-24
+ST1440,2026-08-02,Tamil Nadu,Arts,SC,392516.0,10000,Complete,Under Review,Not Applicable,
+ST1391,2026-04-21,Uttar Pradesh,Engineering,SC,,10000,Pending Verification,Approved,Not Applicable,2026-05-13
+ST1207,2026-01-28,Gujarat,Arts,EWS,167759.0,20000,Complete,Under Review,Not Applicable,
+ST1283,2026-02-01,Telangana,Pharmacy,OBC,401040.0,15000,Pending Verification,Rejected,Eligibility Mismatch,2026-02-07
+ST1255,2026-01-28,Maharashtra,Science,SC,627800.0,10000,Complete,Approved,Not Applicable,2026-02-15
+ST1416,2026-04-10,Gujarat,Commerce,ST,429082.0,40000,Complete,Under Review,Not Applicable,
+ST1005,2026-03-27,Uttar Pradesh,Pharmacy,General,287426.0,30000,Complete,Under Review,Not Applicable,
+ST1257,2026-01-24,Madhya Pradesh,Management,OBC,126019.0,30000,Complete,Approved,Not Applicable,2026-02-04
+ST1453,2026-02-02,Uttar Pradesh,Engineering,General,192849.0,10000,Incomplete,Under Review,Not Applicable,
+ST1101,2026-04-11,Telangana,Science,OBC,558270.0,40000,Pending Verification,Under Review,Not Applicable,
+ST1227,2026-05-15,Rajasthan,Engineering,OBC,336763.0,10000,Incomplete,Pending,Not Applicable,
+ST1432,2026-05-24,Maharashtra,Commerce,OBC,81721.0,30000,Complete,Under Review,Not Applicable,
+ST1214,2026-08-13,Tamil Nadu,Pharmacy,EWS,175412.0,15000,Pending Verification,Approved,Not Applicable,2026-09-02
+ST1426,2026-06-20,Uttar Pradesh,Science,SC,319527.0,15000,Complete,Under Review,Not Applicable,
+ST1172,2026-05-13,Rajasthan,Commerce,SC,376968.0,30000,Complete,Under Review,Not Applicable,
+ST1099,2026-08-27,Karnataka,Pharmacy,ST,301070.0,30000,Complete,Approved,Not Applicable,2026-10-01
+ST1293,2026-07-02,Rajasthan,Commerce,SC,361759.0,10000,Complete,Pending,Not Applicable,
+ST1216,2026-02-06,Maharashtra,Arts,General,129488.0,25000,Incomplete,Pending,Not Applicable,
+ST1062,2026-07-13,Tamil Nadu,Engineering,OBC,420544.0,15000,Pending Verification,Rejected,Income Criteria Not Met,2026-07-18
+ST1048,2026-03-06,Telangana,Engineering,EWS,117938.0,30000,Complete,Rejected,Duplicate Application,2026-03-18
+ST1033,2026-08-26,Rajasthan,Engineering,OBC,328005.0,40000,Pending Verification,Pending,Not Applicable,
+ST1268,2026-07-20,Gujarat,Engineering,EWS,197317.0,25000,Pending Verification,Pending,Not Applicable,
+ST1328,2026-07-20,Rajasthan,Engineering,General,229973.0,40000,Pending Verification,Approved,Not Applicable,2026-08-26
+ST1201,2026-08-13,Tamil Nadu,Commerce,SC,440356.0,25000,Complete,Approved,Not Applicable,2026-09-21
+ST1451,2026-06-29,Telangana,Science,ST,597917.0,25000,Complete,Approved,Not Applicable,2026-07-14
+ST1028,2026-08-17,Madhya Pradesh,Arts,General,287296.0,40000,Pending Verification,Approved,Not Applicable,2026-09-02
+ST1393,2026-06-12,Gujarat,Pharmacy,EWS,614038.0,30000,Complete,Pending,Not Applicable,
+ST1231,2026-02-16,Maharashtra,Commerce,OBC,139651.0,40000,Complete,Pending,Not Applicable,
+ST1261,2026-03-09,Telangana,Engineering,ST,384892.0,10000,Pending Verification,Under Review,Not Applicable,
+ST1289,2026-02-25,Karnataka,Management,ST,179571.0,30000,Complete,Approved,Not Applicable,2026-03-19
+ST1163,2026-08-26,Tamil Nadu,Commerce,ST,261905.0,40000,Complete,Rejected,Duplicate Application,2026-09-13
+ST1429,2026-02-21,Tamil Nadu,Engineering,General,495235.0,15000,Complete,Pending,Not Applicable,
+ST1139,2026-03-07,Madhya Pradesh,Science,ST,346321.0,20000,Complete,Approved,Not Applicable,2026-03-30
+ST1063,2026-06-16,Rajasthan,Science,General,434467.0,40000,Complete,Pending,Not Applicable,
+ST1136,2026-01-16,Maharashtra,Engineering,EWS,143612.0,15000,Complete,Approved,Not Applicable,2026-02-21
+ST1129,2026-03-25,Rajasthan,Arts,EWS,598167.0,40000,Complete,Pending,Not Applicable,
+ST1482,2026-06-30,Gujarat,Pharmacy,EWS,569611.0,25000,Complete,Approved,Not Applicable,2026-07-08
+ST1009,2026-07-04,Telangana,Arts,OBC,469023.0,20000,Complete,Rejected,Duplicate Application,2026-08-11
+ST1327,2026-06-28,Maharashtra,Science,OBC,194875.0,20000,Pending Verification,Approved,Not Applicable,2026-07-05
+ST1469,2026-07-18,Telangana,Science,EWS,112010.0,25000,Complete,Pending,Not Applicable,
+ST1065,2026-07-12,Telangana,Engineering,OBC,491458.0,40000,Complete,Rejected,Duplicate Application,2026-08-26
+ST1301,2026-03-05,Uttar Pradesh,Pharmacy,ST,519954.0,15000,Complete,Approved,Not Applicable,2026-04-06
+ST1015,2026-03-09,Uttar Pradesh,Management,ST,313236.0,25000,Incomplete,Rejected,Eligibility Mismatch,2026-03-16
+ST1157,2026-08-15,Madhya Pradesh,Commerce,EWS,133621.0,25000,Pending Verification,Rejected,Income Criteria Not Met,2026-08-17
+ST1041,2026-07-18,Rajasthan,Management,General,306619.0,10000,Complete,Pending,Not Applicable,
+ST1380,2026-01-06,Tamil Nadu,Engineering,General,526208.0,20000,Pending Verification,Approved,Not Applicable,2026-02-14
+ST1465,2026-02-24,Uttar Pradesh,Pharmacy,EWS,537542.0,20000,Complete,Rejected,Duplicate Application,2026-03-12
+ST1407,2026-05-27,Uttar Pradesh,Management,OBC,461600.0,20000,Incomplete,Approved,Not Applicable,2026-06-22
+ST1217,2026-04-15,Tamil Nadu,Pharmacy,EWS,275057.0,20000,Complete,Pending,Not Applicable,
+ST1280,2026-07-07,Tamil Nadu,Arts,OBC,327935.0,30000,Incomplete,Rejected,Duplicate Application,2026-07-17
+ST1439,2026-01-01,Tamil Nadu,Management,General,130689.0,10000,Complete,Under Review,Not Applicable,
+ST1435,2026-01-20,Karnataka,Engineering,General,155888.0,15000,Complete,Under Review,Not Applicable,
+ST1338,2026-05-27,Madhya Pradesh,Commerce,General,647771.0,10000,Complete,Approved,Not Applicable,2026-06-01
+ST1237,2026-01-21,Uttar Pradesh,Management,OBC,364225.0,15000,Complete,Rejected,Duplicate Application,2026-02-17
+ST1208,2026-04-07,Gujarat,Management,ST,119695.0,25000,Complete,Under Review,Not Applicable,
+ST1213,2026-02-20,Gujarat,Pharmacy,ST,554309.0,20000,Incomplete,Rejected,Duplicate Application,2026-02-24
+ST1296,2026-08-02,Uttar Pradesh,Science,ST,615119.0,15000,Complete,Approved,Not Applicable,2026-09-05
+ST1462,2026-08-04,Rajasthan,Arts,OBC,494466.0,40000,Pending Verification,Approved,Not Applicable,2026-09-11
+ST1252,2026-06-03,Madhya Pradesh,Management,OBC,152834.0,40000,Complete,Approved,Not Applicable,2026-07-18
+ST1494,2026-03-01,Tamil Nadu,Pharmacy,EWS,513192.0,30000,Complete,Pending,Not Applicable,
+ST1463,2026-04-18,Gujarat,Arts,General,526180.0,15000,Complete,Rejected,Eligibility Mismatch,2026-05-06
+ST1304,2026-02-03,Karnataka,Arts,General,191432.0,20000,Complete,Rejected,Incomplete Documents,2026-02-22
+ST1351,2026-08-19,Rajasthan,Engineering,SC,179407.0,25000,Complete,Approved,Not Applicable,2026-09-01
+ST1270,2026-02-26,Maharashtra,Engineering,General,164698.0,40000,Pending Verification,Pending,Not Applicable,
+ST1202,2026-07-14,Telangana,Management,OBC,560694.0,15000,Pending Verification,Under Review,Not Applicable,
+ST1162,2026-05-01,Madhya Pradesh,Pharmacy,SC,93189.0,10000,Pending Verification,Pending,Not Applicable,
+ST1044,2026-02-09,Tamil Nadu,Pharmacy,SC,346407.0,25000,Incomplete,Under Review,Not Applicable,
+ST1218,2026-02-10,Uttar Pradesh,Science,SC,339232.0,15000,Complete,Under Review,Not Applicable,
+ST1402,2026-08-27,Tamil Nadu,Engineering,General,461200.0,15000,Incomplete,Pending,Not Applicable,
+ST1191,2026-06-29,Madhya Pradesh,Science,ST,456198.0,30000,Complete,Under Review,Not Applicable,
+ST1310,2026-08-15,Uttar Pradesh,Science,OBC,225822.0,20000,Complete,Pending,Not Applicable,
+ST1260,2026-05-06,Gujarat,Management,ST,557362.0,40000,Complete,Pending,Not Applicable,
+ST1106,2026-04-08,Tamil Nadu,Commerce,ST,387531.0,10000,Complete,Rejected,Eligibility Mismatch,2026-05-09
+ST1054,2026-05-18,Gujarat,Management,SC,589323.0,10000,Incomplete,Pending,Not Applicable,
+ST1390,2026-04-21,Rajasthan,Commerce,SC,278850.0,15000,Incomplete,Rejected,Income Criteria Not Met,2026-04-30
+ST1002,2026-01-23,Karnataka,Management,SC,365201.0,25000,Pending Verification,Rejected,Duplicate Application,2026-02-25
+ST1492,2026-03-24,Tamil Nadu,Arts,EWS,126984.0,20000,Complete,Pending,Not Applicable,
+ST1488,2026-02-04,Tamil Nadu,Engineering,OBC,252516.0,30000,Incomplete,Pending,Not Applicable,
+ST1050,2026-05-24,Rajasthan,Engineering,SC,145829.0,10000,Complete,Pending,Not Applicable,
+ST1420,2026-03-03,Gujarat,Arts,ST,267977.0,30000,Complete,Pending,Not Applicable,
+ST1081,2026-08-21,Uttar Pradesh,Management,SC,102886.0,30000,Complete,Rejected,Duplicate Application,2026-10-02
+ST1206,2026-04-20,Karnataka,Engineering,ST,521372.0,30000,Complete,Under Review,Not Applicable,
+ST1035,2026-01-06,Telangana,Engineering,ST,505670.0,20000,Complete,Rejected,Income Criteria Not Met,2026-02-10
+ST1431,2026-07-29,Rajasthan,Science,SC,246884.0,30000,Pending Verification,Approved,Not Applicable,2026-08-19
+ST1264,2026-01-23,Telangana,Science,EWS,286318.0,10000,Complete,Rejected,Duplicate Application,2026-02-17
+ST1428,2026-01-20,Karnataka,Management,General,483665.0,15000,Complete,Pending,Not Applicable,
+ST1367,2026-07-23,Tamil Nadu,Science,SC,167540.0,20000,Incomplete,Approved,Not Applicable,2026-08-15
+ST1092,2026-05-16,Gujarat,Arts,ST,275340.0,25000,Complete,Rejected,Eligibility Mismatch,2026-06-12
+ST1340,2026-07-02,Tamil Nadu,Management,EWS,360333.0,25000,Complete,Approved,Not Applicable,2026-07-07
+ST1479,2026-01-07,Uttar Pradesh,Science,ST,466637.0,10000,Incomplete,Approved,Not Applicable,2026-02-16
+ST1053,2026-07-24,Karnataka,Arts,OBC,446263.0,40000,Complete,Pending,Not Applicable,
+ST1346,2026-07-02,Rajasthan,Engineering,ST,360492.0,40000,Pending Verification,Under Review,Not Applicable,
+ST1265,2026-08-15,Rajasthan,Management,EWS,202858.0,20000,Incomplete,Rejected,Eligibility Mismatch,2026-08-30
+ST1242,2026-04-21,Telangana,Commerce,General,295798.0,15000,Complete,Approved,Not Applicable,2026-05-09
+ST1014,2026-02-21,Karnataka,Pharmacy,General,567733.0,10000,Complete,Under Review,Not Applicable,
+ST1316,2026-05-01,Uttar Pradesh,Pharmacy,EWS,600498.0,20000,Complete,Approved,Not Applicable,2026-06-09
+ST1089,2026-02-02,Uttar Pradesh,Science,SC,441739.0,20000,Complete,Approved,Not Applicable,2026-03-03
+ST1388,2026-04-18,Madhya Pradesh,Arts,SC,599767.0,40000,Complete,Under Review,Not Applicable,
+ST1274,2026-04-12,Tamil Nadu,Arts,ST,172393.0,15000,Complete,Approved,Not Applicable,2026-04-22
+ST1167,2026-05-21,Madhya Pradesh,Arts,EWS,185886.0,40000,Complete,Pending,Not Applicable,
+ST1329,2026-08-22,Gujarat,Pharmacy,General,245852.0,30000,Complete,Under Review,Not Applicable,
+ST1498,2026-05-16,Uttar Pradesh,Pharmacy,OBC,600111.0,15000,Complete,Pending,Not Applicable,
+ST1135,2026-01-09,Maharashtra,Engineering,OBC,406121.0,15000,Complete,Pending,Not Applicable,
+ST1307,2026-06-25,Madhya Pradesh,Engineering,OBC,179040.0,20000,Complete,Pending,Not Applicable,
+ST1486,2026-03-12,Madhya Pradesh,Management,EWS,404026.0,20000,Complete,Pending,Not Applicable,
+ST1320,2026-01-24,Rajasthan,Management,SC,583612.0,20000,Complete,Rejected,Eligibility Mismatch,2026-02-07
+ST1244,2026-05-08,Telangana,Management,General,420515.0,15000,Incomplete,Under Review,Not Applicable,
+ST1055,2026-01-25,Telangana,Pharmacy,General,557165.0,20000,Pending Verification,Pending,Not Applicable,
+ST1364,2026-02-12,Karnataka,Science,EWS,383578.0,20000,Pending Verification,Under Review,Not Applicable,
+ST1051,2026-06-20,Uttar Pradesh,Engineering,SC,416952.0,10000,Incomplete,Pending,Not Applicable,
+ST1461,2026-05-14,Madhya Pradesh,Science,General,206390.0,30000,Incomplete,Pending,Not Applicable,
+ST1175,2026-05-25,Karnataka,Management,ST,137225.0,40000,Complete,Pending,Not Applicable,
+ST1446,2026-07-23,Maharashtra,Engineering,General,248428.0,25000,Pending Verification,Pending,Not Applicable,
+ST1190,2026-05-14,Rajasthan,Engineering,EWS,336291.0,40000,Pending Verification,Rejected,Duplicate Application,2026-05-23
+ST1074,2026-05-22,Madhya Pradesh,Pharmacy,EWS,325842.0,10000,Complete,Pending,Not Applicable,
+ST1464,2026-02-04,Madhya Pradesh,Science,EWS,213859.0,40000,Complete,Approved,Not Applicable,2026-03-18
+ST1188,2026-04-15,Karnataka,Management,ST,261919.0,20000,Incomplete,Rejected,Income Criteria Not Met,2026-04-23
+ST1170,2026-03-12,Telangana,Engineering,EWS,429959.0,30000,Pending Verification,Under Review,Not Applicable,
+ST1059,2026-02-09,Gujarat,Commerce,SC,288844.0,20000,Complete,Pending,Not Applicable,
+ST1049,2026-03-27,Gujarat,Arts,EWS,162007.0,10000,Pending Verification,Under Review,Not Applicable,
+ST1345,2026-08-14,Tamil Nadu,Arts,SC,245062.0,20000,Complete,Rejected,Income Criteria Not Met,2026-08-24
+ST1236,2026-02-04,Karnataka,Commerce,General,264644.0,40000,Pending Verification,Pending,Not Applicable,
+ST1253,2026-04-11,Gujarat,Pharmacy,OBC,496387.0,10000,Complete,Rejected,Duplicate Application,2026-04-22
+ST1022,2026-05-20,Uttar Pradesh,Commerce,ST,458080.0,10000,Complete,Under Review,Not Applicable,
+ST1314,2026-06-24,Rajasthan,Management,ST,106400.0,15000,Incomplete,Under Review,Not Applicable,
+ST1460,2026-05-30,Maharashtra,Arts,EWS,380618.0,10000,Pending Verification,Approved,Not Applicable,2026-07-05
+ST1161,2026-06-25,Uttar Pradesh,Management,ST,573377.0,10000,Incomplete,Approved,Not Applicable,2026-07-16
+ST1277,2026-05-04,Maharashtra,Pharmacy,SC,217111.0,40000,Complete,Approved,Not Applicable,2026-05-27
+ST1444,2026-05-06,Uttar Pradesh,Arts,EWS,288077.0,15000,Complete,Approved,Not Applicable,2026-06-07
+ST1192,2026-03-28,Tamil Nadu,Commerce,SC,589748.0,30000,Incomplete,Approved,Not Applicable,2026-05-10
+ST1386,2026-03-05,Madhya Pradesh,Engineering,EWS,496292.0,25000,Pending Verification,Pending,Not Applicable,
+ST1294,2026-04-19,Uttar Pradesh,Management,General,486368.0,25000,Incomplete,Approved,Not Applicable,2026-05-15
+ST1414,2026-04-20,Telangana,Engineering,EWS,144991.0,40000,Pending Verification,Approved,Not Applicable,2026-05-25
+ST1344,2026-07-04,Rajasthan,Management,General,140168.0,15000,Complete,Pending,Not Applicable,
+ST1258,2026-08-26,Karnataka,Commerce,OBC,100462.0,20000,Complete,Rejected,Income Criteria Not Met,2026-10-05
+ST1309,2026-07-12,Gujarat,Arts,General,93457.0,10000,Complete,Pending,Not Applicable,
+ST1150,2026-02-26,Tamil Nadu,Pharmacy,General,178578.0,10000,Complete,Pending,Not Applicable,
+ST1131,2026-02-27,Uttar Pradesh,Engineering,OBC,114557.0,20000,Incomplete,Pending,Not Applicable,
+ST1152,2026-04-04,Maharashtra,Management,SC,385634.0,10000,Complete,Under Review,Not Applicable,
+ST1360,2026-07-05,Tamil Nadu,Engineering,General,280761.0,20000,Incomplete,Pending,Not Applicable,
+ST1100,2026-03-22,Uttar Pradesh,Science,SC,173338.0,10000,Complete,Pending,Not Applicable,
+ST1373,2026-03-23,Karnataka,Arts,SC,270977.0,30000,Incomplete,Approved,Not Applicable,2026-04-27
+ST1088,2026-04-21,Madhya Pradesh,Engineering,General,634842.0,40000,Complete,Approved,Not Applicable,2026-05-15
+ST1459,2026-05-20,Tamil Nadu,Arts,ST,535159.0,15000,Complete,Rejected,Eligibility Mismatch,2026-06-18
+ST1331,2026-01-18,Rajasthan,Engineering,ST,101233.0,30000,Pending Verification,Under Review,Not Applicable,
+ST1215,2026-04-28,Telangana,Management,General,265759.0,25000,Complete,Pending,Not Applicable,
+ST1467,2026-08-12,Rajasthan,Science,OBC,505624.0,40000,Complete,Approved,Not Applicable,2026-09-21
+ST1122,2026-06-11,Gujarat,Pharmacy,EWS,594444.0,25000,Complete,Under Review,Not Applicable,
+ST1105,2026-01-04,Uttar Pradesh,Management,EWS,443426.0,10000,Complete,Pending,Not Applicable,
+ST1021,2026-04-18,Karnataka,Pharmacy,OBC,540937.0,30000,Complete,Approved,Not Applicable,2026-05-29
+ST1189,2026-06-22,Maharashtra,Commerce,ST,621535.0,25000,Complete,Rejected,Eligibility Mismatch,2026-07-14
+ST1072,2026-05-28,Telangana,Engineering,ST,562412.0,25000,Complete,Approved,Not Applicable,2026-06-20
+ST1107,2026-08-12,Uttar Pradesh,Pharmacy,EWS,290825.0,25000,Pending Verification,Approved,Not Applicable,2026-09-20
+ST1271,2026-05-17,Uttar Pradesh,Arts,SC,536333.0,25000,Complete,Approved,Not Applicable,2026-06-17
+ST1349,2026-06-03,Karnataka,Commerce,SC,460851.0,15000,Complete,Under Review,Not Applicable,
+ST1436,2026-05-18,Gujarat,Pharmacy,OBC,158991.0,20000,Complete,Approved,Not Applicable,2026-05-26
+ST1103,2026-07-01,Gujarat,Arts,OBC,597049.0,10000,Complete,Approved,Not Applicable,2026-08-12
